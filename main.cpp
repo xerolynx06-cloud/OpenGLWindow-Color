@@ -30,7 +30,7 @@ int main(void) {
 		}
 	glfwMakeContextCurrent(window);
 	
-	if (!gladLoadGLLoader((GLADloadProc)glfwGetProcAddress)) {
+	if (!gladLoadGLLoader((GLADloadproc)glfwGetProcAddress)) {
 
 		cout << "GLAD Initialization Failed";
 
