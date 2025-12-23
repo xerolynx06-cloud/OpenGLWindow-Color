@@ -1,7 +1,7 @@
 # Basic OpenGL Window & Colour Buffer
  Basic **Opengl** Code with Custom Window Colour
 ---
- ##PROCESS
+ # PROCESS
  - By using **GLAD** Header Library
  - By Adding Values in glClearColor();
  - glClearColor(R, G, B, A);
