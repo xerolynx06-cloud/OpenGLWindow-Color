@@ -17,7 +17,7 @@
  - Just Substitute the float points in glClearColor
  - There Are Many Colors , These Are Primary 
 
- #Tools Used
+ # Tools Used
  - **OpenGL(Graphic API)**
  - IDE - **Visual Studio**
  - Language - **C++**
